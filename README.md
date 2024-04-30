@@ -1,4 +1,4 @@
-# Assignment
+# Data Analysis Assignment
 In this assignment I am performing data analysis on certain data sets to help the sales team get insights about the below requirements:
 
 1.the total amount spent and the country for the Pending delivery status for each country.
