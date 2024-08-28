@@ -1,5 +1,5 @@
 # Assignment
-In this assignment I am performing data analysis on Orders.csv file to help the sales team get insights about the below requirements:
+In this assignment I am performing data analysis on Order.csv file to help the sales team get insights about the below requirements:
 
 1.the total amount spent and the country for the Pending delivery status for each country.
 
